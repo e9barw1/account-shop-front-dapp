@@ -1,5 +1,5 @@
 window.__APP_CONFIG__ = {
-    API_BASE_URL: "http://192.168.0.100:8081",
+    API_BASE_URL: "http://192.168.0.222:8081",
     USDT_CONTRACT: "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
     RECEIVE_CONTRACT: "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
 };
